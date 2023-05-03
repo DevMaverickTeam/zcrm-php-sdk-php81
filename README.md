@@ -1,3 +1,9 @@
+# Fork detail
+* This applies this fix to the Extension classes, to make them compatible with PHP8.1
+* https://help.zoho.com/portal/en/community/topic/type-of-zcrmsdk-crm-exception-zcrmexception-file-must-be-string-as-in-class-exception
+* vendor/zohocrm/php-sdk-archive/src/oauth/exception/ZohoOAuthException.php
+* vendor/zohocrm/php-sdk-archive/src/crm/exception/ZCRMException.php
+
 # Archival Notice:
 
 This SDK is archived. You can continue to use it, but no new features or support requests will be accepted. For the new version, refer to
